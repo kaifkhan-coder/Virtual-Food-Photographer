@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Food Photographer",
+  "description": "An AI-powered tool for restaurant owners to generate high-quality, realistic food photography from their text-based menus. Users can select different photographic styles and use text prompts to edit the generated images.",
+  "requestFramePermissions": []
+}
